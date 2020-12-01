@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tug Of Logic</string>
+    <string name="strPassword">Password</string>
+    <string name="strConfirmPassword">Confirm Password</string>
+    <string name="strLogin">Login</string>
+    <string name="strEmail">Email</string>
+    <string name="strSignUp">Sign Up</string>
+    <string name="strFName">First Name</string>
+    <string name="strLName">Last Name</string>
+    <string name="strMainClaim">Main Claim</string>
+    <string name="strDefMainClaim">Define the Main Claim here</string>
+    <string name="strDefine">Define</string>
+    <string name="strTrue">True</string>
+    <string name="strFalse">False</string>
+    <string name="strMCTrueOrFalse">Is the Main Claim TRUE or FALSE?</string>
+    <string name="strMCthis">This is the main claim</string>
+    <string name="strPlayerName">PlayerName</string>
+    <string name="strRipNo">Reason-in-Play #</string>
+    <string name="strRip">Reason-in-Play Text</string>
+    <string name="strCurrentVote">Current Vote</string>
+    <string name="strVoteTrue">ESTABLISHED</string>
+    <string name="strVoteFalse">CONTESTED</string>
+    <string name="strGroundList">GROUNDS LIST</string>
+    <string name="strMCVote">MC VOTE</string>
+    <string name="Instructor">Instructor</string>
+    <string name="Student">Student</string>
+</resources>
