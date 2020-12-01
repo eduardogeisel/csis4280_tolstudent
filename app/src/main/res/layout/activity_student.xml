@@ -47,7 +47,7 @@
         android:layout_width="300dp"
         android:layout_height="150dp"
         android:gravity="center"
-        android:text="Who was born first: the egg or the chicken?"
+        android:text="The Earth is flat!"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
