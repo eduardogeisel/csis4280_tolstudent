@@ -1,6 +1,7 @@
 package com.example.tolstudent
 
 import android.content.Context
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -62,12 +63,18 @@ class StudentActivity : AppCompatActivity() {
 
         btnTrue.setOnClickListener {
             Toast.makeText(this, "You are group True", Toast.LENGTH_LONG).show();
-            setContentView(R.layout.activity_rip)
+//            setContentView(R.layout.activity_rip)
+
+            val intent = Intent(this, Rip::class.java)
+            startActivity(intent)
         }
 
         btnFalse.setOnClickListener {
             Toast.makeText(this, "You are group False", Toast.LENGTH_LONG).show();
-            setContentView(R.layout.activity_rip)
+//            setContentView(R.layout.activity_rip)
+
+            val intent = Intent(this, Rip::class.java)
+            startActivity(intent)
         }
 
 

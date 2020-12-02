@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".GameBoard"
     android:background="#325B56"
     android:orientation="vertical"
     android:weightSum="14">
@@ -232,4 +231,3 @@
 
 
 </LinearLayout>
-
