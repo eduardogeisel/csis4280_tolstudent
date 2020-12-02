@@ -62,12 +62,12 @@ class StudentActivity : AppCompatActivity() {
 
         btnTrue.setOnClickListener {
             Toast.makeText(this, "You are group True", Toast.LENGTH_LONG).show();
-            setContentView(R.layout.rip_activity)
+            setContentView(R.layout.activity_rip)
         }
 
         btnFalse.setOnClickListener {
             Toast.makeText(this, "You are group False", Toast.LENGTH_LONG).show();
-            setContentView(R.layout.rip_activity)
+            setContentView(R.layout.activity_rip)
         }
 
 
