@@ -42,9 +42,6 @@ class Rip : AppCompatActivity() {
             mSocket.emit("student_position_rip")
         });
 
-        //display current records
-
-
         //If student want to change their vote
         btnMcVote.setOnClickListener {
             val intent = Intent(this, StudentActivity::class.java)
